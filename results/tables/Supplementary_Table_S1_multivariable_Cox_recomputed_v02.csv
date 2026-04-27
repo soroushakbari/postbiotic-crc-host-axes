@@ -1,0 +1,9 @@
+Cohort,Axis,Complete-case n,Adjustment covariates,Adjusted HR (95% CI),Wald p value
+TCGA,SCFA,491,Stage + age at diagnosis,1.20 (0.76 to 1.90),0.431
+TCGA,Tryptophan / AhR,491,Stage + age at diagnosis,0.82 (0.57 to 1.19),0.306
+TCGA,Polyamine,491,Stage + age at diagnosis,1.47 (0.87 to 2.50),0.152
+TCGA,Ferroptosis / redox,491,Stage + age at diagnosis,1.26 (0.66 to 2.42),0.487
+GSE39582,SCFA,569,Stage,0.59 (0.42 to 0.84),0.003
+GSE39582,Tryptophan / AhR,569,Stage,1.21 (0.90 to 1.63),0.211
+GSE39582,Polyamine,569,Stage,1.00 (0.75 to 1.34),0.984
+GSE39582,Ferroptosis / redox,569,Stage,1.00 (0.61 to 1.63),0.997

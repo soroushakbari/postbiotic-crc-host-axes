@@ -1,0 +1,5 @@
+"axis_id","n_genes","class","short_description"
+"Ferroptosis_axis",14,"Redox","Ferroptosis and iron–lipid peroxidation–redox control in CRC cells and TME"
+"Polyamine_axis",8,"Polyamine","Polyamine biosynthesis and catabolism linked to CRC proliferation and apoptosis"
+"SCFA_axis",15,"SCFA","SCFA-mediated HDAC inhibition and GPCR signaling in colon epithelium and TME"
+"Trp_axis",10,"Tryptophan","Tryptophan–kynurenine–AhR immunomodulatory axis at the gut–tumor interface"

@@ -1,0 +1,3 @@
+cohort,n_total,n_stage_complete,n_OS_complete,n_SCFA_complete,n_TME_complete,n_MSI_nonmissing
+TCGA,614,498,614,614,614,263
+GSE39582,585,579,579,585,,

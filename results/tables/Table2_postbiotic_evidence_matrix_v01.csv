@@ -1,0 +1,38 @@
+study_id,first_author_year,axis,study_type_simplified,specimen_model_simplified,endpoint_simplified,evidence_strength,include_in_fig2,include_priority,short_label_for_plot
+SCFA_01,Gomes et al. 2023,SCFA,Review,Multi-omics / literature,TME / immune context,1,Yes,Medium,SCFA review TME
+SCFA_02,Hou et al. 2021,SCFA,Review,Multi-omics / literature,Therapy response,1,Yes,Medium,SCFA translation
+SCFA_03,Serpa et al. 2010,SCFA,Preclinical,Preclinical model,Mechanistic evidence,2,Yes,High,Butyrate adaptation
+SCFA_04,Donohoe et al. 2013,SCFA,Review,Multi-omics / literature,Mechanistic evidence,1,Yes,Medium,Butyrate paradox
+SCFA_05,Sylwestrzak et al. 2025,SCFA,Review,Stool / faeces,Diagnosis / early detection,1,Yes,Medium,Faecal SCFA meta
+SCFA_06,Mowat et al. 2023,SCFA,Translational,Tumour / mucosa,TME / immune context,4,Yes,High,SCFA MSI immune
+SCFA_07,Han et al. 2025,SCFA,Preclinical,Preclinical model,TME / immune context,2,Yes,Medium,Butyrate macrophage
+SCFA_08,Sanchez-Alcoholado et al. 2021,SCFA,Translational,Stool / faeces,Therapy response,4,Yes,High,SCFA therapy response
+TRP_01,Shi et al. 2022,Tryptophan-AhR,Translational,Tumour / mucosa,TME / immune context,4,Yes,High,USP14 IDO1
+TRP_02,Llosa et al. 2015,Tryptophan-AhR,Translational,Tumour / mucosa,TME / immune context,4,Yes,High,MSI immune checkpoints
+TRP_03,Puccetti et al. 2015,Tryptophan-AhR,Translational,Tumour / mucosa,Diagnosis / early detection,4,Yes,High,In situ kynurenine
+TRP_04,Tang et al. 2021,Tryptophan-AhR,Review,Multi-omics / literature,Mechanistic evidence,1,Yes,Medium,IDO CRC review
+TRP_05,Santhanam et al. 2016,Tryptophan-AhR,Review,Multi-omics / literature,Mechanistic evidence,1,Yes,Medium,IDO inflammation
+TRP_06,Zhang et al. 2019,Tryptophan-AhR,Review,Multi-omics / literature,Therapy response,1,Yes,Medium,Trp therapy review
+TRP_07,Wyatt and Greathouse 2021,Tryptophan-AhR,Review,Multi-omics / literature,Mechanistic evidence,1,Yes,Medium,Microbial indoles
+TRP_08,Ala 2021,Tryptophan-AhR,Review,Multi-omics / literature,TME / immune context,1,Yes,Medium,Trp immune modulation
+POLY_01,Linsalata et al. 1993,Polyamine,Human observational,Tumour / mucosa,Mechanistic evidence,3,Yes,High,Tissue polyamine enzymes
+POLY_02,Kingsnorth et al. 1984,Polyamine,Human observational,Tumour / mucosa,Mechanistic evidence,3,Yes,Medium,Tissue polyamines
+POLY_03,Wang et al. 1996,Polyamine,Human observational,Tumour / mucosa,Risk / recurrence,3,Yes,Medium,Mucosal risk
+POLY_04,Barreiro-Alonso et al. 2024,Polyamine,Human observational,Stool / faeces,Diagnosis / early detection,3,Yes,High,Faecal polyamines
+POLY_05,Loser et al. 1990,Polyamine,Human observational,Blood / serum / urine,Risk / recurrence,3,Yes,High,Systemic recurrence
+POLY_06,Montcusi et al. 2024,Polyamine,Human observational,Blood / serum / urine,Risk / recurrence,3,Yes,High,Circulating recurrence
+POLY_07,Thompson et al. 2010,Polyamine,Clinical / interventional,Tumour / mucosa,Mechanistic evidence,5,Yes,High,DFMO pharmacodynamics
+POLY_08,Zhang et al. 2023,Polyamine,Multi-omics,Tumour / mucosa,Prognosis / survival,4,Yes,High,Polyamine omics
+FERRO_01,Cui et al. 2024,Ferroptosis-redox,Review,Multi-omics / literature,Mechanistic evidence,1,Yes,Medium,Microbiota ferroptosis review
+FERRO_02,Yasui et al. 2024,Ferroptosis-redox,Translational,Tumour / mucosa,Prognosis / survival,4,Yes,High,GPX4 FSP1 prognosis
+FERRO_03,Zhang Kang and Tang 2024,Ferroptosis-redox,Preclinical,Preclinical model,Stage / progression,2,Yes,High,P anaerobius FSP1
+FERRO_04,Li et al. 2024,Ferroptosis-redox,Translational,Preclinical model,Therapy response,4,Yes,High,F nucleatum oxaliplatin
+FERRO_05,Zhang et al. 2022,Ferroptosis-redox,Translational,Tumour / mucosa,Therapy response,4,Yes,High,GPX4 persisters
+FERRO_06,Mei et al. 2026,Ferroptosis-redox,Human observational,Blood / serum / urine,Diagnosis / early detection,3,Yes,Medium,Serum GPX4
+FERRO_07,Lv et al. 2020,Ferroptosis-redox,Multi-omics,Tumour / mucosa,Prognosis / survival,4,Yes,Low,Ferroptosis score
+MIXED_01,Yang et al. 2019,Mixed / multi-omics,Multi-omics,Stool / faeces,Diagnosis / early detection,4,Yes,High,Stool microbiome metabolome
+MIXED_02,Fu et al. 2023,Mixed / multi-omics,Multi-omics,Stool / faeces,Stage / progression,4,Yes,Medium,Bile acid progression
+MIXED_03,Zhang et al. 2022,Mixed / multi-omics,Multi-omics,Tumour / mucosa,TME / immune context,4,Yes,High,Microbiome immune status
+MIXED_04,Sanchez-Alcoholado et al. 2021,Mixed / multi-omics,Multi-omics,Stool / faeces,Therapy response,4,Yes,High,Microbiota metabolites response
+MIXED_05,Liu et al. 2017,Mixed / multi-omics,Human observational,Blood / serum / urine,Prognosis / survival,3,Yes,Medium,TMAO prognosis
+MIXED_06,Cheng et al. 2012,Mixed / multi-omics,Human observational,Blood / serum / urine,Diagnosis / early detection,3,Yes,Medium,Urine metabolomics
